@@ -8,6 +8,6 @@ public class Main {
 
         new App(sc).run();
 
-        sc.close();;
+        sc.close();
     }
 }
