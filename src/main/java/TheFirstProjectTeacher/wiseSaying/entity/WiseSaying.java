@@ -1,4 +1,4 @@
-package TheFirstProjectTeacher;
+package TheFirstProjectTeacher.wiseSaying.entity;
 
 public class WiseSaying {
     private long id;
